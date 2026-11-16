@@ -127,6 +127,5 @@ A team project for BA780 Introduction to Data Analytics, MS in Business Analytic
 
 Aashna Soni · Alex Chen · Dhruv Thakkar · Gauri Nandihalli · Peter Chang
 
-## Contact
 
-**Gauri Nandihalli** · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · MS in Business Analytics, Boston University
+**Gauri Nandihalli** · MS in Business Analytics, Boston University
